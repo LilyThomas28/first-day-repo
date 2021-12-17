@@ -1,0 +1,22 @@
+.lesson {
+    background-color: lemonchiffon;
+  }
+  /* This is a comment */
+  .title {
+    color: darkblue;
+    font: 50;
+  }
+
+  #email {
+    background-color: goldenrod;
+  }
+  
+  #github {
+    background-color: lightsteelblue;
+  }
+  
+  #portfolio {
+    background-color: darkorange;
+  }
+  
+
